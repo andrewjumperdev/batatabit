@@ -1,4 +1,5 @@
 # Batatabit
+![alt text](https://i.ibb.co/VDDBCtB/batatabit.png)
 
 This is a project where I apply the mobile first method, this to give maximum compatibility and a more neat development to all devices.
 It is also a full responsive project adapting it to all devices such as cell phones, computers of different resolutions and others. 
